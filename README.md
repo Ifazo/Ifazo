@@ -17,7 +17,7 @@ I'm a passionate full-stack web developer with expertise in building dynamic and
   - Nest.js
   - RESTful APIs
 
-- **Backend Development:**
+- **Database Technologies:**
   - MongoDB
   - PostgreSQL
   - Mongoose
