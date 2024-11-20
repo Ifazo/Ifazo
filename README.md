@@ -33,9 +33,8 @@ I'm a passionate full-stack web developer with expertise in building dynamic and
 
 Let's connect and discuss exciting projects! Feel free to reach out:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter/)
-- [Portfolio Website](https://your-portfolio-website.com/)
+- [LinkedIn](https://www.linkedin.com/in/ziaul-karim-ifaz)
+- [Portfolio Website](https://ifaz.vercel.app)
 
 <!-- Projects -->
 ## Featured Projects
